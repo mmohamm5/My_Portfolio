@@ -1,19 +1,15 @@
-# DEVELOPER PORTFOLIO
+# DevOps PORTFOLIO
 
 A portfolio website template for campers
 
-![jane-doe](jane-shot.png)
 
 ## Author
 Md Nur Mohammad
 
 ## Github repo
 
-This is the to the Github repo of the project
+This is the Github repo for the project: https://github.com/mmohamm5/My-Portfolio
 
-## Sample Website
-
-A live demo is already available via this [link](https://eager-williams-af0d00.netlify.app/?)
 
 ## Tech Stack
 
@@ -21,7 +17,7 @@ A live demo is already available via this [link](https://eager-williams-af0d00.n
 
 ## Tools Used
 
-Below are are list of tools used, and the precise things they were used for:
+Below is a list of tools used, and the precise things they were used for:
 
 - [Ion Icons](https://ionic.io/ionicons) for hambuger menu bar
 - [Drawkit](https://www.drawkit.io/) for Jane Doe illustration
